@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a System Administrator always trying to learn a new things.
+Specifically Azure, AWS, Cloud Native Technologies, Kubernetes and Scripting
+
 <!--
 **ysftzcn/ysftzcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
