@@ -21,10 +21,4 @@ Here are some ideas to get you started:
 
 ## Let's connect!
 [![Linkedin Badge](https://img.shields.io/badge/-Yusuf_TEZCAN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ysftzcn/) 
-<br />
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ysftzcn">
