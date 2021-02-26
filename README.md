@@ -1,9 +1,4 @@
-### System Administrator
-
-
-**noun**
-
-Like a normal person but cooler.
+### DevSecOps
 
 <!--
 **ysftzcn/ysftzcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭  **I’m currently working on** - Powershell scripting and sometimes JavaScript
-- 💬  **Ask me about** - Microsoft Servers Services, Virtualization, Powershell
-- ⚡  **Fun fact** - I'm an origamist!
+- 🔭  **I’m currently working on** - Security, Cloud, Powershell scripting and sometimes JavaScript
+- 💬  **Ask me about** - Security, DevOps, Microsoft Servers Services, Virtualization, Powershell 
+- ⚡  **Fun fact** - I'm a Minimalist!
 
 ## Let's connect!
 [![Linkedin Badge](https://img.shields.io/badge/-Yusuf_TEZCAN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ysftzcn/) 
