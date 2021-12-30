@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 - 🔭  **I’m currently working on** - Security, Cloud, Powershell scripting and sometimes JavaScript
 - 💬  **Ask me about** - Security, DevOps, Microsoft Servers Services, Virtualization, Powershell 
 - ⚡  **Fun fact** - I'm a Minimalist!
-
-## Let's connect!
-[![Linkedin Badge](https://img.shields.io/badge/-Yusuf_TEZCAN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ysftzcn/) 
-
